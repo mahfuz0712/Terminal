@@ -1,0 +1,10 @@
+{
+  "name": "Terminal",
+  "description": "Sci-fi HUD terminal for Android: real shell commands, tabs, history, TAB completion, colours and saved commands.",
+  "version": "1.0.0",
+  "ageRating": "3+",
+  "type": "app",
+  "containsAds": false,
+  "category": "Tools",
+  "author": "Mohammad Mahfuz Rahman"
+}
